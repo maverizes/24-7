@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "What is open, where and at what price",
+    "subtitle": "Services, retail, dining and tourism across Tashkent Region — on a single platform",
+    "whatLabel": "What do you need?",
+    "whatPlaceholder": "restaurant, pharmacy, hotel, petrol station…",
+    "whereLabel": "Where?",
+    "whereAll": "All of Tashkent Region",
+    "whereMyLocation": "My location",
+    "cta": "Search"
+  },
+  "openNow": {
+    "title": "Open right now",
+    "subtitle": "Places currently open — enabled by default",
+    "cta": "Show what is open"
+  },
+  "categories": {
+    "title": "Main modules",
+    "subtitle": "Pick the type of service you need"
+  },
+  "night": {
+    "title": "Night services",
+    "subtitle": "Places that stay open at night",
+    "cta": "All night services"
+  },
+  "emergency": {
+    "title": "Emergency services",
+    "subtitle": "Ambulance, hospitals, duty pharmacies, police, fire service",
+    "cta": "Emergency services"
+  },
+  "regions": {
+    "title": "Districts and cities",
+    "subtitle": "22 territories of Tashkent Region",
+    "districts": "Districts",
+    "cities": "Cities"
+  },
+  "awards": {
+    "title": "24/7 Choice",
+    "subtitle": "Places highly rated by users and experts",
+    "cta": "All winners"
+  },
+  "stats": {
+    "objects": "Total places",
+    "openNow": "Open now",
+    "night": "Night services",
+    "awards": "24/7 Choice"
+  },
+  "popular": {
+    "title": "Popular places",
+    "subtitle": "Most viewed and highest rated"
+  }
+}

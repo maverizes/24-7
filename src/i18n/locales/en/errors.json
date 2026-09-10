@@ -1,0 +1,17 @@
+{
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist or was removed",
+    "action": "Back to home"
+  },
+  "objectNotFound": {
+    "title": "Place not found",
+    "description": "This place may have been removed or its address changed",
+    "action": "Back to search"
+  },
+  "generic": {
+    "title": "Something went wrong",
+    "description": "We could not load the data. Please try again",
+    "action": "Try again"
+  }
+}

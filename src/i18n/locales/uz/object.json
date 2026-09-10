@@ -1,0 +1,63 @@
+{
+  "breadcrumb": {
+    "home": "Bosh sahifa"
+  },
+  "info": {
+    "title": "Asosiy ma’lumot",
+    "address": "Manzil",
+    "phone": "Telefon",
+    "website": "Veb-sayt",
+    "hours": "Ish vaqti",
+    "services": "Xizmatlar",
+    "map": "Xaritada",
+    "category": "Kategoriya",
+    "region": "Hudud"
+  },
+  "gallery": {
+    "photos": "{count} ta foto",
+    "noPhoto": "Foto qo‘shilmagan",
+    "cover": "Asosiy foto"
+  },
+  "price": {
+    "title": "Narxlar"
+  },
+  "menu": {
+    "title": "Menyu va xizmatlar",
+    "empty": "Menyu hali qo‘shilmagan"
+  },
+  "reviews": {
+    "title": "Sharhlar",
+    "empty": "Bu obyekt haqida hali sharh yo‘q",
+    "write": "Sharh yozish",
+    "loginRequired": "Sharh yozish uchun tizimga kiring",
+    "helpful": "{count} kishi foydali deb topdi",
+    "sort": {
+      "newest": "Eng yangi",
+      "helpful": "Eng foydali",
+      "highest": "Yuqori reyting",
+      "lowest": "Past reyting"
+    }
+  },
+  "verification": {
+    "title": "Ma’lumot ishonchliligi",
+    "lastVerified": "Oxirgi tasdiqlangan sana",
+    "completeness": "Ma’lumot to‘liqligi"
+  },
+  "hours": {
+    "title": "Ish vaqti",
+    "today": "Bugun",
+    "closed": "Dam olish kuni",
+    "open24": "24 soat"
+  },
+  "report": {
+    "title": "Xato topdingizmi?",
+    "description": "Manzil, telefon, ish vaqti yoki narx noto‘g‘ri bo‘lsa — bizga xabar bering",
+    "cta": "Xato haqida xabar berish"
+  },
+  "similar": {
+    "title": "Shunga o‘xshash obyektlar"
+  },
+  "awards": {
+    "title": "Sovrinlar"
+  }
+}

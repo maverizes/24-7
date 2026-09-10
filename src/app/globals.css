@@ -1,26 +1,108 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/*
+  24/7 dizayn tizimi (TZ 28).
+
+  Prinsiplar: ishonchli, toza, ma'lumotga to'yingan, minimal.
+  Ortiqcha gradient, animatsiya va katta hero bloklaridan qochiladi —
+  ekranning asosiy qismini ma'lumot egallaydi.
+*/
+
+@theme {
+  /* Brend — davlat-tijorat platformasi uchun quyuq ko'k */
+  --color-brand: #0e4c92;
+  --color-brand-dark: #0a3a70;
+  --color-brand-soft: #e9f0fa;
+
+  /* Holat ranglari: ochiq / yopiq / tungi / shoshilinch / sovrin */
+  --color-open: #15803d;
+  --color-open-soft: #e7f6ec;
+  --color-closed: #9a3412;
+  --color-closed-soft: #fdf0e8;
+  --color-night: #4338ca;
+  --color-night-soft: #ecebfb;
+  --color-alert: #c81e1e;
+  --color-alert-soft: #fdeaea;
+  --color-award: #a16207;
+  --color-award-soft: #fdf5e2;
+
+  /* Matn va yuzalar */
+  --color-ink: #0f172a;
+  --color-ink-muted: #475569;
+  --color-ink-subtle: #64748b;
+  --color-line: #e2e8f0;
+  --color-line-strong: #cbd5e1;
+  --color-surface: #ffffff;
+  --color-canvas: #f5f7fa;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-card: 0.625rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  /* Klaviatura bilan navigatsiya doim ko'rinadigan bo'lsin (TZ 29). */
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background-color: var(--color-brand-soft);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-wrap: balance;
+    color: var(--color-ink);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  /* Ekran o'quvchilar uchun matn — vizual yashirin, lekin mavjud. */
+  .sr-only-focusable:not(:focus):not(:focus-within) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  /* Gorizontal scroll bloklari uchun — scrollbar yashirin, harakat qoladi. */
+  .scroll-row {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .scroll-row::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

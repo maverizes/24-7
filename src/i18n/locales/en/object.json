@@ -1,0 +1,63 @@
+{
+  "breadcrumb": {
+    "home": "Home"
+  },
+  "info": {
+    "title": "Key information",
+    "address": "Address",
+    "phone": "Phone",
+    "website": "Website",
+    "hours": "Opening hours",
+    "services": "Amenities",
+    "map": "On the map",
+    "category": "Category",
+    "region": "District"
+  },
+  "gallery": {
+    "photos": "{count} photos",
+    "noPhoto": "No photos added",
+    "cover": "Cover photo"
+  },
+  "price": {
+    "title": "Prices"
+  },
+  "menu": {
+    "title": "Menu and services",
+    "empty": "No menu added yet"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "empty": "No reviews for this place yet",
+    "write": "Write a review",
+    "loginRequired": "Sign in to write a review",
+    "helpful": "{count} people found this helpful",
+    "sort": {
+      "newest": "Newest",
+      "helpful": "Most helpful",
+      "highest": "Highest rated",
+      "lowest": "Lowest rated"
+    }
+  },
+  "verification": {
+    "title": "Data trust",
+    "lastVerified": "Last verified on",
+    "completeness": "Profile completeness"
+  },
+  "hours": {
+    "title": "Opening hours",
+    "today": "Today",
+    "closed": "Closed",
+    "open24": "24 hours"
+  },
+  "report": {
+    "title": "Found an error?",
+    "description": "Let us know if the address, phone, hours or prices are wrong",
+    "cta": "Report an issue"
+  },
+  "similar": {
+    "title": "Similar places"
+  },
+  "awards": {
+    "title": "Awards"
+  }
+}

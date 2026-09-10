@@ -1,0 +1,78 @@
+{
+  "title": "Search",
+  "placeholder": "Place name, category or service",
+  "resultsCount": "{count} results",
+  "resultsIn": "in {region}",
+  "filters": {
+    "title": "Filters",
+    "status": "Status",
+    "category": "Category",
+    "region": "District",
+    "rating": "Rating",
+    "price": "Price",
+    "distance": "Distance",
+    "services": "Amenities",
+    "awards": "Awards",
+    "apply": "Show results",
+    "reset": "Reset",
+    "active": "{count} filters active",
+    "allRegions": "All districts",
+    "allCategories": "All categories"
+  },
+  "status": {
+    "open_now": "Open now",
+    "24_7": "Open 24/7",
+    "closed": "Closed now",
+    "opens_later": "Opens later"
+  },
+  "rating": {
+    "any": "Any",
+    "min": "{value} and up"
+  },
+  "price": {
+    "any": "Any",
+    "level1": "Budget",
+    "level2": "Moderate",
+    "level3": "Expensive",
+    "level4": "Premium"
+  },
+  "distance": {
+    "any": "No limit",
+    "value": "within {value}",
+    "needsLocation": "Enable location to filter by distance"
+  },
+  "sort": {
+    "label": "Sort by",
+    "recommended": "Recommended",
+    "rating": "Rating",
+    "reviews": "Number of reviews",
+    "price_asc": "Price: low to high",
+    "price_desc": "Price: high to low",
+    "distance": "Distance: nearest first",
+    "newest": "Recently added",
+    "popular": "Most viewed"
+  },
+  "empty": {
+    "title": "No places found",
+    "description": "Try changing the filters or simplifying your search",
+    "action": "Clear filters",
+    "relaxedTitle": "Nothing is open right now",
+    "relaxedDescription": "The “Open now” filter is on. You can include closed places as well.",
+    "relaxedAction": "Include closed places ({count})"
+  },
+  "view": {
+    "list": "List",
+    "map": "Map"
+  },
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page {page} of {total}"
+  },
+  "location": {
+    "request": "Enable location to see distances",
+    "enabled": "Location enabled",
+    "denied": "Location access denied",
+    "loading": "Detecting location…"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "brand": {
+    "name": "24/7",
+    "tagline": "Где бы вы ни были — что открыто, где и почём",
+    "region": "Ташкентская область"
+  },
+  "nav": {
+    "home": "Главная",
+    "search": "Поиск",
+    "map": "Карта",
+    "regions": "Районы",
+    "saved": "Сохранённые",
+    "profile": "Профиль"
+  },
+  "action": {
+    "search": "Найти",
+    "filter": "Фильтр",
+    "sort": "Сортировка",
+    "clear": "Очистить",
+    "clearFilters": "Сбросить фильтры",
+    "showAll": "Показать все",
+    "showMore": "Ещё",
+    "showLess": "Свернуть",
+    "back": "Назад",
+    "retry": "Повторить",
+    "call": "Позвонить",
+    "route": "Маршрут",
+    "website": "Сайт",
+    "save": "Сохранить",
+    "share": "Поделиться",
+    "viewOnMap": "На карте",
+    "apply": "Применить",
+    "close": "Закрыть",
+    "enableLocation": "Включить геолокацию",
+    "details": "Подробнее",
+    "skipToContent": "Перейти к основному содержимому"
+  },
+  "status": {
+    "openNow": "Сейчас открыто",
+    "closed": "Сейчас закрыто",
+    "open24": "Открыто 24/7",
+    "closesAt": "Закроется в {time}",
+    "opensAt": "Откроется в {time}",
+    "opensOn": "Откроется в {day} в {time}",
+    "temporarilyClosed": "Временно закрыто",
+    "permanentlyClosed": "Закрыто навсегда",
+    "unknown": "Часы работы неизвестны"
+  },
+  "days": {
+    "MONDAY": "Понедельник",
+    "TUESDAY": "Вторник",
+    "WEDNESDAY": "Среда",
+    "THURSDAY": "Четверг",
+    "FRIDAY": "Пятница",
+    "SATURDAY": "Суббота",
+    "SUNDAY": "Воскресенье"
+  },
+  "daysShort": {
+    "MONDAY": "Пн",
+    "TUESDAY": "Вт",
+    "WEDNESDAY": "Ср",
+    "THURSDAY": "Чт",
+    "FRIDAY": "Пт",
+    "SATURDAY": "Сб",
+    "SUNDAY": "Вс"
+  },
+  "price": {
+    "day": "Дневные цены",
+    "evening": "Вечерние цены",
+    "currency": "сум",
+    "range": "{min} – {max}",
+    "notApplicable": "Цены не указаны",
+    "level": "Уровень цен"
+  },
+  "verification": {
+    "verified": "Данные подтверждены",
+    "verifiedOn": "Подтверждено {date}",
+    "stale": "Данные требуют обновления",
+    "needsReview": "Ожидает проверки",
+    "suspended": "Временно приостановлено",
+    "label": "Достоверность"
+  },
+  "rating": {
+    "reviews": "{count} отзывов",
+    "noReviews": "Отзывов нет",
+    "value": "{value} балла"
+  },
+  "distance": {
+    "km": "{value} км",
+    "m": "{value} м",
+    "unknown": "Расстояние неизвестно"
+  },
+  "language": {
+    "label": "Язык",
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "auth": {
+    "login": "Войти",
+    "register": "Регистрация",
+    "profile": "Профиль"
+  },
+  "misc": {
+    "loading": "Загрузка…",
+    "objectsCount": "{count} объектов",
+    "openNowCount": "{count} открыто сейчас",
+    "of": "{current} / {total}",
+    "soon": "Скоро"
+  },
+  "demo": {
+    "notice": "Демо: объекты сформированы на основе тестовых данных. Телефоны и адреса не настоящие. Короткие номера экстренных служб (101, 102, 103) — реальные."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Nima ochiq, qayerda va qanchaga",
+    "subtitle": "Toshkent viloyatidagi xizmatlar, savdo, ovqatlanish va turizm obyektlari — bitta platformada",
+    "whatLabel": "Nima kerak?",
+    "whatPlaceholder": "restoran, dorixona, mehmonxona, YOQSH…",
+    "whereLabel": "Qayerda?",
+    "whereAll": "Butun Toshkent viloyati",
+    "whereMyLocation": "Mening lokatsiyam",
+    "cta": "Qidirish"
+  },
+  "openNow": {
+    "title": "Ayni damda ochiq",
+    "subtitle": "Hozir ishlab turgan obyektlar — sukut bo‘yicha yoqilgan",
+    "cta": "Hozir ochiqlarini ko‘rish"
+  },
+  "categories": {
+    "title": "Asosiy yo‘nalishlar",
+    "subtitle": "Kerakli xizmat turini tanlang"
+  },
+  "night": {
+    "title": "Tungi xizmatlar",
+    "subtitle": "Kechasi ham ishlaydigan obyektlar",
+    "cta": "Barcha tungi xizmatlar"
+  },
+  "emergency": {
+    "title": "Shoshilinch xizmatlar",
+    "subtitle": "Tez yordam, shifoxona, navbatchi dorixona, IIB, yong‘in xizmati",
+    "cta": "Shoshilinch xizmatlar"
+  },
+  "regions": {
+    "title": "Hududlar",
+    "subtitle": "Toshkent viloyatining 22 ta hududi",
+    "districts": "Tumanlar",
+    "cities": "Shaharlar"
+  },
+  "awards": {
+    "title": "24/7 Tanlovi",
+    "subtitle": "Foydalanuvchilar va ekspertlar tomonidan yuqori baholangan obyektlar",
+    "cta": "Barcha sovrindorlar"
+  },
+  "stats": {
+    "objects": "Jami obyektlar",
+    "openNow": "Hozir ochiq",
+    "night": "Tungi xizmat",
+    "awards": "24/7 Tanlovi"
+  },
+  "popular": {
+    "title": "Ommabop obyektlar",
+    "subtitle": "Eng ko‘p ko‘rilgan va yuqori reytingli"
+  }
+}

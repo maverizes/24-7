@@ -1,0 +1,17 @@
+{
+  "notFound": {
+    "title": "Sahifa topilmadi",
+    "description": "Siz izlagan sahifa mavjud emas yoki o‘chirilgan",
+    "action": "Bosh sahifaga qaytish"
+  },
+  "objectNotFound": {
+    "title": "Obyekt topilmadi",
+    "description": "Bu obyekt o‘chirilgan yoki manzili o‘zgargan bo‘lishi mumkin",
+    "action": "Qidiruvga qaytish"
+  },
+  "generic": {
+    "title": "Xatolik yuz berdi",
+    "description": "Ma’lumotni yuklab bo‘lmadi. Iltimos, qaytadan urinib ko‘ring",
+    "action": "Qayta urinish"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "brand": {
+    "name": "24/7",
+    "tagline": "Qayerda bo‘lsangiz ham — nima ochiq, qayerda va qanchaga",
+    "region": "Toshkent viloyati"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "search": "Qidiruv",
+    "map": "Xarita",
+    "regions": "Hududlar",
+    "saved": "Saqlangan",
+    "profile": "Profil"
+  },
+  "action": {
+    "search": "Qidirish",
+    "filter": "Filtr",
+    "sort": "Saralash",
+    "clear": "Tozalash",
+    "clearFilters": "Filtrlarni tozalash",
+    "showAll": "Barchasini ko‘rish",
+    "showMore": "Ko‘proq",
+    "showLess": "Yig‘ish",
+    "back": "Orqaga",
+    "retry": "Qayta urinish",
+    "call": "Qo‘ng‘iroq",
+    "route": "Yo‘nalish",
+    "website": "Veb-sayt",
+    "save": "Saqlash",
+    "share": "Ulashish",
+    "viewOnMap": "Xaritada ko‘rish",
+    "apply": "Qo‘llash",
+    "close": "Yopish",
+    "enableLocation": "Lokatsiyani yoqish",
+    "details": "Batafsil",
+    "skipToContent": "Asosiy kontentga o‘tish"
+  },
+  "status": {
+    "openNow": "Hozir ochiq",
+    "closed": "Hozir yopiq",
+    "open24": "24/7 ochiq",
+    "closesAt": "{time} da yopiladi",
+    "opensAt": "{time} da ochiladi",
+    "opensOn": "{day}, {time} da ochiladi",
+    "temporarilyClosed": "Vaqtincha yopilgan",
+    "permanentlyClosed": "Butunlay yopilgan",
+    "unknown": "Ish vaqti noma’lum"
+  },
+  "days": {
+    "MONDAY": "Dushanba",
+    "TUESDAY": "Seshanba",
+    "WEDNESDAY": "Chorshanba",
+    "THURSDAY": "Payshanba",
+    "FRIDAY": "Juma",
+    "SATURDAY": "Shanba",
+    "SUNDAY": "Yakshanba"
+  },
+  "daysShort": {
+    "MONDAY": "Du",
+    "TUESDAY": "Se",
+    "WEDNESDAY": "Ch",
+    "THURSDAY": "Pa",
+    "FRIDAY": "Ju",
+    "SATURDAY": "Sh",
+    "SUNDAY": "Ya"
+  },
+  "price": {
+    "day": "Kunduzgi narx",
+    "evening": "Kechki narx",
+    "currency": "so‘m",
+    "range": "{min} – {max}",
+    "notApplicable": "Narx ko‘rsatilmagan",
+    "level": "Narx darajasi"
+  },
+  "verification": {
+    "verified": "Ma’lumot tasdiqlangan",
+    "verifiedOn": "{date} da tasdiqlangan",
+    "stale": "Ma’lumotni yangilash kerak",
+    "needsReview": "Tekshiruv kutilmoqda",
+    "suspended": "Vaqtincha to‘xtatilgan",
+    "label": "Ishonchlilik"
+  },
+  "rating": {
+    "reviews": "{count} ta sharh",
+    "noReviews": "Sharhlar yo‘q",
+    "value": "{value} ball"
+  },
+  "distance": {
+    "km": "{value} km",
+    "m": "{value} m",
+    "unknown": "Masofa noma’lum"
+  },
+  "language": {
+    "label": "Til",
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "auth": {
+    "login": "Kirish",
+    "register": "Ro‘yxatdan o‘tish",
+    "profile": "Profil"
+  },
+  "misc": {
+    "loading": "Yuklanmoqda…",
+    "objectsCount": "{count} ta obyekt",
+    "openNowCount": "{count} tasi hozir ochiq",
+    "of": "{current} / {total}",
+    "soon": "Tez orada"
+  },
+  "demo": {
+    "notice": "Demo: obyektlar namunaviy ma’lumotlar asosida yaratilgan. Telefon raqamlari va manzillar haqiqiy emas. Shoshilinch qisqa raqamlar (101, 102, 103) haqiqiy."
+  }
+}

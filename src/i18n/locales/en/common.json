@@ -1,0 +1,114 @@
+{
+  "brand": {
+    "name": "24/7",
+    "tagline": "Wherever you are — what is open, where and at what price",
+    "region": "Tashkent Region"
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "map": "Map",
+    "regions": "Districts",
+    "saved": "Saved",
+    "profile": "Profile"
+  },
+  "action": {
+    "search": "Search",
+    "filter": "Filters",
+    "sort": "Sort",
+    "clear": "Clear",
+    "clearFilters": "Clear filters",
+    "showAll": "View all",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "back": "Back",
+    "retry": "Try again",
+    "call": "Call",
+    "route": "Directions",
+    "website": "Website",
+    "save": "Save",
+    "share": "Share",
+    "viewOnMap": "View on map",
+    "apply": "Apply",
+    "close": "Close",
+    "enableLocation": "Enable location",
+    "details": "Details",
+    "skipToContent": "Skip to main content"
+  },
+  "status": {
+    "openNow": "Open now",
+    "closed": "Closed now",
+    "open24": "Open 24/7",
+    "closesAt": "Closes at {time}",
+    "opensAt": "Opens at {time}",
+    "opensOn": "Opens {day} at {time}",
+    "temporarilyClosed": "Temporarily closed",
+    "permanentlyClosed": "Permanently closed",
+    "unknown": "Hours unknown"
+  },
+  "days": {
+    "MONDAY": "Monday",
+    "TUESDAY": "Tuesday",
+    "WEDNESDAY": "Wednesday",
+    "THURSDAY": "Thursday",
+    "FRIDAY": "Friday",
+    "SATURDAY": "Saturday",
+    "SUNDAY": "Sunday"
+  },
+  "daysShort": {
+    "MONDAY": "Mon",
+    "TUESDAY": "Tue",
+    "WEDNESDAY": "Wed",
+    "THURSDAY": "Thu",
+    "FRIDAY": "Fri",
+    "SATURDAY": "Sat",
+    "SUNDAY": "Sun"
+  },
+  "price": {
+    "day": "Daytime price",
+    "evening": "Evening price",
+    "currency": "UZS",
+    "range": "{min} – {max}",
+    "notApplicable": "No price listed",
+    "level": "Price level"
+  },
+  "verification": {
+    "verified": "Information verified",
+    "verifiedOn": "Verified on {date}",
+    "stale": "Information needs updating",
+    "needsReview": "Awaiting review",
+    "suspended": "Suspended",
+    "label": "Trust"
+  },
+  "rating": {
+    "reviews": "{count} reviews",
+    "noReviews": "No reviews yet",
+    "value": "{value} out of 5"
+  },
+  "distance": {
+    "km": "{value} km",
+    "m": "{value} m",
+    "unknown": "Distance unknown"
+  },
+  "language": {
+    "label": "Language",
+    "uz": "O‘zbekcha",
+    "ru": "Русский",
+    "en": "English"
+  },
+  "auth": {
+    "login": "Sign in",
+    "register": "Sign up",
+    "profile": "Profile"
+  },
+  "misc": {
+    "loading": "Loading…",
+    "objectsCount": "{count} places",
+    "openNowCount": "{count} open now",
+    "of": "{current} / {total}",
+    "soon": "Coming soon"
+  },
+  "demo": {
+    "notice": "Demo: places are generated from sample data. Phone numbers and addresses are not real. Emergency short numbers (101, 102, 103) are real."
+  }
+}

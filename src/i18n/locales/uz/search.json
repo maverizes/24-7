@@ -1,0 +1,78 @@
+{
+  "title": "Qidiruv",
+  "placeholder": "Obyekt, kategoriya yoki xizmat nomi",
+  "resultsCount": "{count} ta natija",
+  "resultsIn": "{region} bo‘yicha",
+  "filters": {
+    "title": "Filtrlar",
+    "status": "Holat",
+    "category": "Kategoriya",
+    "region": "Hudud",
+    "rating": "Reyting",
+    "price": "Narx",
+    "distance": "Masofa",
+    "services": "Xizmatlar",
+    "awards": "Sovrinlar",
+    "apply": "Natijalarni ko‘rish",
+    "reset": "Tozalash",
+    "active": "{count} ta filtr faol",
+    "allRegions": "Barcha hududlar",
+    "allCategories": "Barcha kategoriyalar"
+  },
+  "status": {
+    "open_now": "Ayni damda ochiq",
+    "24_7": "24/7 ishlaydi",
+    "closed": "Hozir yopiq",
+    "opens_later": "Keyinroq ochiladi"
+  },
+  "rating": {
+    "any": "Har qanday",
+    "min": "{value} va undan yuqori"
+  },
+  "price": {
+    "any": "Har qanday",
+    "level1": "Arzon",
+    "level2": "O‘rtacha",
+    "level3": "Qimmat",
+    "level4": "Premium"
+  },
+  "distance": {
+    "any": "Cheklovsiz",
+    "value": "{value} gacha",
+    "needsLocation": "Masofa bo‘yicha filtrlash uchun lokatsiyani yoqing"
+  },
+  "sort": {
+    "label": "Saralash",
+    "recommended": "Tavsiya etilgan",
+    "rating": "Reyting bo‘yicha",
+    "reviews": "Sharhlar soni bo‘yicha",
+    "price_asc": "Narx: arzon → qimmat",
+    "price_desc": "Narx: qimmat → arzon",
+    "distance": "Masofa: yaqin → uzoq",
+    "newest": "Yangi qo‘shilgan",
+    "popular": "Eng ko‘p ko‘rilgan"
+  },
+  "empty": {
+    "title": "Hech qanday obyekt topilmadi",
+    "description": "Filtrlarni o‘zgartirib yoki qidiruv so‘rovini soddalashtirib ko‘ring",
+    "action": "Filtrlarni tozalash",
+    "relaxedTitle": "Hozir ochiq obyektlar topilmadi",
+    "relaxedDescription": "«Ayni damda ochiq» filtri yoqilgan. Yopiq obyektlarni ham ko‘rsatish mumkin.",
+    "relaxedAction": "Yopiqlarni ham ko‘rsatish ({count})"
+  },
+  "view": {
+    "list": "Ro‘yxat",
+    "map": "Xarita"
+  },
+  "pagination": {
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "page": "{page}-sahifa, jami {total}"
+  },
+  "location": {
+    "request": "Masofani ko‘rsatish uchun lokatsiyani yoqing",
+    "enabled": "Lokatsiya yoqilgan",
+    "denied": "Lokatsiyaga ruxsat berilmadi",
+    "loading": "Lokatsiya aniqlanmoqda…"
+  }
+}
